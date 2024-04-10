@@ -1,2 +1,2 @@
-# digistorm-deploy-scripts
+# devops-deploy-scripts
 Scripts to help run AWS CodeDeploy tasks
